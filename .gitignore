@@ -1,0 +1,5 @@
+# Arquivos de lock específicos
+package-lock.json
+
+# Diretórios de Dependências
+node_modules/
